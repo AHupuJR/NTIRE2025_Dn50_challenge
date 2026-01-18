@@ -1,4 +1,4 @@
-# [NTIRE 2025 Challenge on Image Denoising](https://cvlai.net/ntire/2025/) @ [CVPR 2025](https://cvpr.thecvf.com/)
+# [NTIRE 2026 Challenge on Image Denoising](https://cvlai.net/ntire/2026/) @ [CVPR 2026](https://cvpr.thecvf.com/)
 
 This is an example of adding noise and simple baseline model.
 
@@ -17,7 +17,7 @@ Select the model you would like to test from [`run.sh`](./run.sh)
     - Be sure the change the directories `--data_dir` and `--save_dir`.
    
 ## How to add your model to this baseline?
-1. Register your team in the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XVa8LIaAURYpPvMf7i-_Yqlzh-JsboG0hvcnp-oI9rs/edit?usp=sharing) and get your team ID.
+1. Register your team in the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1vinqY0JUNVHb4v0sItOnsmiUmx8JkJro1Sk4gIl-aF8/edit?usp=sharing) and get your team ID.
 2. Put your the code of your model in `./models/[Your_Team_ID]_[Your_Model_Name].py`
    - Please add **only one** file in the folder `./models`. **Please do not add other submodules**.
    - Please zero pad [Your_Team_ID] into two digits: e.g. 00, 01, 02 
